@@ -18,6 +18,7 @@ namespace mvc2025EFCoreRelationship.Models
         [DataType(DataType.Date)]
         public DateTime? CreationDate { get; set; }
 
+        [Display(Name ="Category")]
         public int? CategoryID { get; set; }
 
         public virtual Category? Category { get; set; }

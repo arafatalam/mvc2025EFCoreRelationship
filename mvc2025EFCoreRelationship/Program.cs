@@ -14,7 +14,7 @@ namespace mvc2025EFCoreRelationship
 
             //Defining DbContext service Configuration
 
-            string? connectionString = builder.Configuration.GetConnectionString("RelationshipsConnection")??
+            string? connectionString = builder.Configuration.GetConnectionString("RelationshipsSrAConnection") ??
                 throw new InvalidOperationException($"ConnectionString was not found");
             builder.Services
                 .AddDbContext<EFCoreRelationshipContext>(option => option.UseSqlServer(connectionString));
