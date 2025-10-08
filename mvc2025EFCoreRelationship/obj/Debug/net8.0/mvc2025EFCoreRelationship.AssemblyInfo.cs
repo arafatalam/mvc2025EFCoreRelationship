@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvc2025EFCoreRelationship")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5427dfe16d310f6756ca6d4fc44101010a98c0ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvc2025EFCoreRelationship")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvc2025EFCoreRelationship")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
