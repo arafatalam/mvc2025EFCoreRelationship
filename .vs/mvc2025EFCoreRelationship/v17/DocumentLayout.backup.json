@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\views\\categories\\_addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\views\\categories\\_addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|solutionrelative:mvc2025efcorerelationship\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E559141C-B5A9-45DD-8711-339AB320FCBF}|mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship.csproj|d:\\source\\mvc\\mvc2025efcorerelationship\\mvc2025efcorerelationship\\models\\efcorerelationshipmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +70,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "mvc2025EFCoreRelationship\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "mvc2025EFCoreRelationship\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T11:55:05.971Z",
+              "WhenOpened": "2025-10-08T13:06:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "mvc2025EFCoreRelationship\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:05:51.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "mvc2025EFCoreRelationship\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T13:00:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "mvc2025EFCoreRelationship\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:57:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AddEdit.cshtml",
+              "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\_AddEdit.cshtml",
+              "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Views\\Categories\\_AddEdit.cshtml",
+              "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Views\\Categories\\_AddEdit.cshtml",
+              "RelativeToolTip": "mvc2025EFCoreRelationship\\Views\\Categories\\_AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:54:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EFCoreRelationshipModels.cs",
               "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Models\\EFCoreRelationshipModels.cs",
               "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Models\\EFCoreRelationshipModels.cs",
               "ToolTip": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Models\\EFCoreRelationshipModels.cs",
               "RelativeToolTip": "mvc2025EFCoreRelationship\\Models\\EFCoreRelationshipModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T11:43:36.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Program.cs",
               "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Program.cs",
@@ -93,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20251007125425_addedRelationshipsForProductsCategories.cs",
               "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\Data\\Migrations\\20251007125425_addedRelationshipsForProductsCategories.cs",
               "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\Data\\Migrations\\20251007125425_addedRelationshipsForProductsCategories.cs",
@@ -106,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\source\\mvc\\mvc2025EFCoreRelationship\\mvc2025EFCoreRelationship\\appsettings.json",
               "RelativeDocumentMoniker": "mvc2025EFCoreRelationship\\appsettings.json",
