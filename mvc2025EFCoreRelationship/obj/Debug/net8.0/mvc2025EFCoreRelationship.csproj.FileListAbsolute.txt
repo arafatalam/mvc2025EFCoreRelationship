@@ -261,3 +261,5 @@ D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\bin\Debug\net8
 D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\obj\Debug\net8.0\mvc2025EFCoreRelationship.sourcelink.json
+D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\bin\Debug\net8.0\Castle.Core.dll
+D:\source\mvc\mvc2025EFCoreRelationship\mvc2025EFCoreRelationship\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll

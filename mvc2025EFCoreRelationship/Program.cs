@@ -17,11 +17,13 @@ namespace mvc2025EFCoreRelationship
             string? connectionString = builder.Configuration.GetConnectionString("RelationshipsSrAConnection") ??
                 throw new InvalidOperationException($"ConnectionString was not found");
             builder.Services
-                .AddDbContext<EFCoreRelationshipContext>(option => option.UseSqlServer(connectionString));
-
-
-
-
+                .AddDbContext<EFCoreRelationshipContext>(
+                    
+                option => 
+                        option
+                            .UseSqlServer(connectionString)
+                            .UseLazyLoadingProxies(useLazyLoadingProxies: true)
+                );
 
 
 

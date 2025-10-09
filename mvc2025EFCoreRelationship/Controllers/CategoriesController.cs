@@ -22,7 +22,12 @@ namespace mvc2025EFCoreRelationship.Controllers
         // GET: Categories
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Categories.ToListAsync());
+            return View(await
+                        _context.Categories
+                        .Where(ct => ct.CategoryName.Contains('a'))
+                        .OrderBy(c => c.CategoryName)
+                        .ToListAsync()
+                        );
         }
 
         // GET: Categories/Details/5
